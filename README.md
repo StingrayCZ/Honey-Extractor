@@ -1,10 +1,10 @@
 # HoneyExtractor
 Construction of machine for extraction honey from honeycombs. Next parts of this project will be add later...
 <p float="left">
-  <img src="//Photo/HoneyExtractor_powerpoint_1.png" width="600" />
-  <img src="//Photo/HoneyExtractor_powerpoint_2.png" width="600" /> 
-  <img src="//Photo/HoneyExtractor_powerpoint_3.png" width="600" />
-  <img src="//Photo/HoneyExtractor_powerpoint_4.png" width="600" />
+  <img src="//Photo/HoneyExtractor_powerpoint_1.PNG" width="600" />
+  <img src="//Photo/HoneyExtractor_powerpoint_2.PNG" width="600" /> 
+  <img src="//Photo/HoneyExtractor_powerpoint_3.PNG" width="600" />
+  <img src="//Photo/HoneyExtractor_powerpoint_4.PNG" width="600" />
 </p>
 
 
